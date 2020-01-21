@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pokemon-val/static/css/main.b3d1f6bd.chunk.css",
+    "main.js": "/pokemon-val/static/js/main.16fd8588.chunk.js",
+    "main.js.map": "/pokemon-val/static/js/main.16fd8588.chunk.js.map",
+    "runtime-main.js": "/pokemon-val/static/js/runtime-main.2e18ff7e.js",
+    "runtime-main.js.map": "/pokemon-val/static/js/runtime-main.2e18ff7e.js.map",
+    "static/js/2.4170e69c.chunk.js": "/pokemon-val/static/js/2.4170e69c.chunk.js",
+    "static/js/2.4170e69c.chunk.js.map": "/pokemon-val/static/js/2.4170e69c.chunk.js.map",
+    "index.html": "/pokemon-val/index.html",
+    "precache-manifest.c41d884cdfec6bd8405f79a716e1d00e.js": "/pokemon-val/precache-manifest.c41d884cdfec6bd8405f79a716e1d00e.js",
+    "service-worker.js": "/pokemon-val/service-worker.js",
+    "static/css/main.b3d1f6bd.chunk.css.map": "/pokemon-val/static/css/main.b3d1f6bd.chunk.css.map",
+    "static/js/2.4170e69c.chunk.js.LICENSE": "/pokemon-val/static/js/2.4170e69c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e18ff7e.js",
+    "static/js/2.4170e69c.chunk.js",
+    "static/css/main.b3d1f6bd.chunk.css",
+    "static/js/main.16fd8588.chunk.js"
+  ]
+}
