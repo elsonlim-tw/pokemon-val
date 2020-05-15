@@ -20,6 +20,6 @@ phases:
       - echo "post build"
 artifacts:
   files:
-    - build/**/*
+    - "**/*"
   discard-paths: no
   base-directory: build
