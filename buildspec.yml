@@ -18,7 +18,7 @@ phases:
   post_build:
     commands:
       - echo "post build"
-      - aws s3 sync build/ s3:///pokemon-val-build-pipeline-bucket
+      - aws s3 sync build/ s3://pokemon-val-build-pipeline-bucket
 artifacts:
   files:
     - build/**/*
